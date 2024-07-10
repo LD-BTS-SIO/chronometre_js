@@ -1,0 +1,19 @@
+= Projet chronomètre JavaScript
+
+:toc:
+
+toc::[]
+== (DARRAS Loïc )
+== lien github : https://github.com/LD-BTS-SIO/chronometre_js
+
+====
+image::img\chrono1.png[width=800, title="Chronomètre au départ", alt=""]
+====
+
+====
+image::img\chrono2.png[width=800, title="Chronomètre stoppé après démarrage", alt=""]
+====
+
+====
+image::img\chrono3.png[width=800, title="Chronomètre réinitialisé", alt=""]
+====
