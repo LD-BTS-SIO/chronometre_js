@@ -1,5 +1,7 @@
 = Projet chronomètre JavaScript
 
+ à l’aide du youtubeur faiz-dev (https://www.youtube.com/watch?v=hNwGsyjfTL4&list=PLuMW20nBgcbpUuBu8DUMvBN3rXtHDHGGz)
+
 :toc:
 
 toc::[]
