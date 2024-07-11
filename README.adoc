@@ -1,12 +1,13 @@
 = Projet chronomètre JavaScript
 
- == à l’aide du youtubeur faiz-dev (https://www.youtube.com/watch?v=hNwGsyjfTL4&list=PLuMW20nBgcbpUuBu8DUMvBN3rXtHDHGGz)
+
 
 :toc:
 
 toc::[]
 == (DARRAS Loïc )
 == lien github : https://github.com/LD-BTS-SIO/chronometre_js
+== à l’aide du youtubeur faiz-dev (https://www.youtube.com/watch?v=hNwGsyjfTL4&list=PLuMW20nBgcbpUuBu8DUMvBN3rXtHDHGGz)
 
 ====
 image::img\chrono1.png[width=800, title="Chronomètre au départ", alt=""]
